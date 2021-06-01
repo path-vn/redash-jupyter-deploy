@@ -13,6 +13,7 @@
 
 - Cài đặt docker-compose: https://docs.docker.com/compose/install/
 
+- Sử dụng git clone hoặc giải nén project này vào thư mục triển khai 
 
 ## Cấu hình
 
