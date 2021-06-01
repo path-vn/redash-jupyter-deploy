@@ -63,7 +63,7 @@ services:
       - ./data:/var/lib/mysql
 
   jupyter:
-    image: jupyter/datascience-notebook:ubuntu-18.04
+    build: .
     restart: always
     volumes:
       - ./notebooks:/home/jovyan/work
