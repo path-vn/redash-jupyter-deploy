@@ -1,0 +1,6 @@
+.idea
+*.xls
+*.xlsx
+.ipynb_checkpoints
+data
+postgres-data
